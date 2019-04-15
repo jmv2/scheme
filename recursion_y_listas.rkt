@@ -1,4 +1,5 @@
 #lang racket
+;Ayudantía 13/04/2019
 
 ; Recursion lineal
 
